@@ -1,7 +1,7 @@
 
 # MACUI
 
-Explore best and mostly free web tools and web templates and best UI library ever!
+Explore best UI/UX Responsive CSS library for your next project!
 ## Installation 
 
 <b>Install via CDN </b>
