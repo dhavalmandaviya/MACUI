@@ -6,7 +6,7 @@ Explore best and mostly free web tools and web templates and best UI library eve
 
 <b>Install via CDN </b>
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/developerdhaval/MACUI@main/macui@3.0.css" text="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dhavalmandaviya/MACUI@main/macui@3.1.css" text="text/css"/>
 ```
 Past in ```<head>``` tag
 
@@ -20,11 +20,11 @@ Past in ```<body>``` tag
 
 MACUI Website:
 
-[Visit](https://themacui.blogspot.com/)
+[Visit](https://dhavalmandaviya/macui/index.html)
 
 ## Roadmap
 
-MACUI v3.0 
+MACUI v3.1
  
 Latest batch: 21 February 2025
 
@@ -40,6 +40,6 @@ email devloperdhaval@gmail.com or join our Slack channel.
 
 ## Authors
 
-- [@MACUI](https://themacui.blogspot.com/)
-- [@Developer Dhaval](https://developerdhaval.github.io/)
+- [@MACUI](https://dhavalmandaviya.github.io/macui/index.html)
+- [@Developer Dhaval](https://dhavalmandaviya.github.io/)
 
